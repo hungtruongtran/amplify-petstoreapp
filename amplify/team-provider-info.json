@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-hungtest-staging-142408-authRole",
+      "UnauthRoleArn": "arn:aws:iam::594944389348:role/amplify-hungtest-staging-142408-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::594944389348:role/amplify-hungtest-staging-142408-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-hungtest-staging-142408-deployment",
+      "UnauthRoleName": "amplify-hungtest-staging-142408-unauthRole",
+      "StackName": "amplify-hungtest-staging-142408",
+      "StackId": "arn:aws:cloudformation:us-east-1:594944389348:stack/amplify-hungtest-staging-142408/08dcce40-d645-11ee-b8f2-1233a475f585",
+      "AmplifyAppId": "d2ws8cmrb30cuo"
+    },
+    "categories": {
+      "auth": {
+        "HungTest": {}
+      }
+    }
+  }
+}
